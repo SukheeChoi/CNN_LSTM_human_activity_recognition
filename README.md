@@ -11,7 +11,7 @@
 
 ## 1.1 LeNet
 
-![Untitled](UFC101%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20b1bce161313a49049d8633e846594ca9/Untitled.png)
+![Untitled](Untitled.png)
 
 ---
 
