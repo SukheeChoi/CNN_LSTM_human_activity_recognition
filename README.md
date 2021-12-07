@@ -19,13 +19,13 @@
 
 ## 1.2. VGG
 
-![Untitled](README_img/Untitled1.png)
+![Untitled](README_img/Untitled 1.png)
 
 ---
 
 ## 1.3. ResNet
 
-![Untitled](UFC101%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20b1bce161313a49049d8633e846594ca9/Untitled%202.png)
+![Untitled](README_img/Untitled 2.png)
 
 ---
 
@@ -33,21 +33,21 @@
 
 ## 1.4. NasNetLarge
 
-![Untitled](UFC101%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20b1bce161313a49049d8633e846594ca9/Untitled%203.png)
+![Untitled](README_img/Untitled 3.png)
 
 ## 1.5. ResNext
 
-![Untitled](UFC101%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20b1bce161313a49049d8633e846594ca9/Untitled%204.png)
+![Untitled](README_img/Untitled 4.png)
 
 ## 1.6. VGG16 + GRU
 
-![Untitled](UFC101%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20b1bce161313a49049d8633e846594ca9/Untitled%205.png)
+![Untitled](README_img/Untitled 5.png)
 
 ---
 
 ## 1.7. VGG19 + LSTM
 
-![Untitled](UFC101%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20b1bce161313a49049d8633e846594ca9/Untitled%206.png)
+![Untitled](README_img/Untitled 6.png)
 
 # 2. 정확도 낮은 모델 분석
 
@@ -55,7 +55,7 @@
 
 - 사용 모델 : OpenPose
 
-![Untitled](UFC101%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20b1bce161313a49049d8633e846594ca9/Untitled%207.png)
+![Untitled](README_img/Untitled 7.png)
 
 ---
 
@@ -63,7 +63,7 @@
 
 - OpenCV를 사용해 'person' 기준 프레임 자르기
 
-![Untitled](UFC101%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20b1bce161313a49049d8633e846594ca9/Untitled%208.png)
+![Untitled](README_img/Untitled 8.png)
 
 ## 2.3 결과
 
